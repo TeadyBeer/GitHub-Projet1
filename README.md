@@ -1,4 +1,4 @@
-<h3>Description du cours</h3> : 
+<h3>Description du cours</h3> 
 <p> 
 L'intitulé du cours que nous avons pris en note dans ce dossier est _**Echanges et relations internationales**_   
 Ce cours est donné en amphithéatre par M JARDIN Pascal.  
