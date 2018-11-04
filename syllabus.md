@@ -2,19 +2,19 @@
 
 
 
-<li>**Intitulé de la formation** : Initiation au code pour créer son propre site web  
-<li>**Volume horaire** : 8h de cours + 15h de projets  
-<li>**Enseignant** : Félix Gaudé pour le cours, vous-mêmes pour les projets
+<li><strong>Intitulé de la formation</strong> : Initiation au code pour créer son propre site web  
+<li><strong>Volume horaire</strong> : 8h de cours + 15h de projets  
+<li><strong>Enseignant</strong> : Félix Gaudé pour le cours, vous-mêmes pour les projets
 
 
 <h3><strong>Description du cours</strong></h3>
 Avec The Hacking Project, devenez un boucanier et découvrez les bases de l’informatique pour lancer votre site Internet !  
 Vous allez travailler ensemble en petits groupes, et découvrir l’écran noir avec des projets concrets, l’apprentissage en communauté, et l’entraide entre élèves.
 
-###**Programme et calendrier du cours**  
+<h3><strong>Programme et calendrier du cours</strong></h3>  
 Ce programme n’est pas définitif et peut être modifié en fonction des envies des élèves.  
 
-**Séance 1**  
+<strong>Séance 1</strong>  
 <ul>
 <li> <strong>Date</strong> : 25/09  
 <li> <strong>Titre</strong> : Découverte de l’écran noir pour se sentir comme un hacker  
@@ -22,7 +22,7 @@ Ce programme n’est pas définitif et peut être modifié en fonction des envie
 <li><strong>Projet</strong> : Faire un projet à plusieurs et le mettre sur GitHub
 </ul>
 
-**Séance 2**  
+<strong>Séance 2</strong>  
 <ul>
 <li><strong>Date</strong> : 09/10  
 <li><strong>Titre</strong> : HTML / CSS : Faire son premier site, et le mettre en ligne pour en faire profiter la terre  
@@ -30,7 +30,7 @@ Ce programme n’est pas définitif et peut être modifié en fonction des envie
 <li><strong>Projet</strong> : Réaliser la page de présentation de votre association puis la mettre en ligne
 </ul>
 
-**Séance 3**  
+<strong>Séance 3</strong>  
 <ul>
 <li><strong>Date</strong> : 23/10  
 <li><strong>Titre</strong> : JavaScript, ou comment ajouter des explosion à votre site  
@@ -38,7 +38,7 @@ Ce programme n’est pas définitif et peut être modifié en fonction des envie
 <li><strong>Projet</strong> : Une version dynamique du site de présentation de votre association
 </ul>
 
-**Séance 4**  
+<strong>Séance 4</strong>  
 <ul>
 <li><strong>Date</strong> : 13/11   
 <li><strong>Titre</strong> : Guide de survie lexical en territoire tech  
@@ -47,7 +47,7 @@ Ce programme n’est pas définitif et peut être modifié en fonction des envie
 </ul>
 
 
-###**Objectif du cours**  
+<h3><strong>Objectif du cours</strong></h3>  
 Le cours a pour but principal de faire découvrir le monde des sites webs et de l’informatique. 
 
 À la fin, les étudiants seront capables de : 
@@ -70,22 +70,21 @@ De plus, avec la pédagogie de l’éducation de pairs, les étudiants seront ca
 <li>Assimiler rapidement des bases théoriques pour les appliquer dans des projets
 </ul>
 
-###**Exemple de projet**   
+<h3><strong>Exemple de projet</strong></h3>   
 Réaliser à plusieurs un site internet au format landing page pour présenter une idée de startup et le mettre en ligne.
 
 
-###**Bibliographie succincte**
+<h3><strong>Bibliographie succincte</strong></h3>
 Chacon, Scott ; Straub, Ben. <em>Pro Git.</em> Apress. 2014. 456 pages
 
 Hartl, Michael. <em>Learn Enough Command Line to Be Dangerous: A tutorial introduction to the Unix command line. Softcover.</em> 2016. 85 pages.
 
 Nebra, Mathieu. <em>Réalisez votre site web avec HTML 5 et CSS 3.</em> OpenClassrooms. 2017. 306 pages.
 
-
-###**Langue d’enseignement**
+<h3><strong>Langue d’enseignement</strong></h3>
 Le cours est conçu pour des élèves français ; mais le monde de l’informatique étant majoritairement anglo-saxon, il y aura un peu d’anglais dans les ressources.
 
-###**Matériel**  
+<h3><strong>Matériel</strong></h3>
 Pour le cours, vous aurez besoin d’un ordinateur.
 
 Voici les différents logiciels à installer :<ul>
