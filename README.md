@@ -12,4 +12,4 @@ III. De l’organisation des échanges internationaux à la constitution d’esp
 <h3>Mise en page du document</h3>
 <p>Pour arriver à avoir un cours lisible et comprehensible, nous avons dans un premier temps chacun de notre coté effectué notre prise de note de l'emsemble du cours, sur nos applications de traitement de texte respectives.</p>
 <P>Nous avons ensuite mis en commun nos prises de note afin d'avoir des informations coherantes et une mise en page uniforme pour que le rendu soit convenable.</P> 
-<p>La fusion des cours faite, nous nous sommes repartie le travail en le divisant en deux. Je me suis chargé de retranscrire la premiére partie du cours 1 et ma partenaire la seconde partie, ainsi que la realisation du syllabus.</p>
+<p>La fusion des cours faite, nous nous sommes repartie le travail en le divisant en deux. Je me suis chargé de retranscrire la premiére partie du cours 1 et ma partenaire la seconde partie, ainsi que la realisation du syllabus.</p> 
